@@ -1,1 +1,45 @@
+EMAIL 1 - Assignment Extension Request
 
+Subject: Request for Extension on Assignment Submission.
+
+Dear Professor,
+
+I hope this email finds you well. I am Pranav Chauhan, a first-year 
+B.Tech CSE student at VIT Bhopal University (Reg. No. [25BCE11289]).
+I am writing to request a short extension for my assignment submission 
+due on [date].
+
+Due to unforeseen health issues, I was unable to complete the work 
+to the required standard. I kindly request an extension of 2-3 days.
+
+I apologize for the inconvenience and assure you this will not 
+happen again.
+
+Thanking you,
+Pranav Chauhan
+B.Tech CSE | 1st Year | VIT Bhopal University
+Reg. No.: [25BCE11289]
+
+
+EMAIL 2 - Internship Interest
+
+Subject: Application for Summer Internship Opportunity.
+
+Dear Hiring Manager,
+
+I am Pranav Chauhan, a first-year B.Tech Computer Science student 
+at VIT Bhopal University. I am writing to express my interest in 
+a summer internship opportunity at your organization.
+I am eager to gain real-world experience and contribute meaningfully contribution
+to your team. I am a quick learner with a strong interest in software 
+development and problem-solving and pretty much resilient.
+My GitHub profile (github.com/pranavChauhan0102-ui) showcases my 
+projects so far. I would welcome the opportunity to discuss how I 
+can contribute to your organization.
+
+Thank you for considering my application.
+
+Yours sincerely,
+Pranav Chauhan
+B.Tech CSE | 1st Year | VIT Bhopal University
+Email: pranav.25bce11289@vitbhopal.ac.in
